@@ -23,7 +23,10 @@ Programming Foundations Curriculum Guide
 
 ####Text Editors
 [Notepad++] (http://notepad-plus-plus.org/download/v6.5.5.html)
+
 [Text] (https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg) (Chrome Web App)
+
+[Sublime Text] (http://www.sublimetext.com/) (Free Trial)
 
 
 ####Additional Resources
