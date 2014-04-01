@@ -21,7 +21,9 @@ Programming Foundations Curriculum Guide
 9. Arrays and objects
 
 
-
+####Text Editors
+[Notepad++] (http://notepad-plus-plus.org/download/v6.5.5.html)
+[Text] (https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg) (Chrome Web App)
 
 
 ####Additional Resources
