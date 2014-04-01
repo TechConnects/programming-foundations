@@ -43,6 +43,10 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 [Code School] (https://www.codeschool.com/) free classes available 
 
+####Up for a challenge?  
+
+See how many of [these projects] (https://github.com/karan/Projects) you can complete from GH user Karan.  He is attempting the project with Python, but give it a shot with JS!
+
 
 
 
