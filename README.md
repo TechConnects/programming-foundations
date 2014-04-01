@@ -1,4 +1,4 @@
-Programming Foundations Curriculum Guide
+Programming Foundations (with JavaScript) Curriculum Guide
 =======================
 ####Agenda 
 
