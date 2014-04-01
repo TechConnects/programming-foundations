@@ -10,9 +10,9 @@ Programming Foundations Curriculum Guide
 
 4. Logic loops
 
-5. Creating Functions
+5. Creating functions
 
-6. Arrays and Objects
+6. Arrays and objects
 
 7. [ScriptEd JavaScript Guide] (https://docs.google.com/a/scripted.org/document/d/1PJsNEumJU1Qe32LVZWgNkecyCt1LXFIoYLhVn1hm4Zc/edit?pli=1#)
 
