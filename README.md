@@ -10,17 +10,21 @@ Programming Foundations Curriculum Guide
  
 4. Arithmetic Operators
 
-5. Logic loops
+5. Logic loops ('for', 'while')
 
-6. Creating functions
+6. If Statements
 
-7. Arrays and objects
+7. Creating functions
 
-8. [JavaScript Guide] (https://docs.google.com/a/scripted.org/document/d/1PJsNEumJU1Qe32LVZWgNkecyCt1LXFIoYLhVn1hm4Zc/edit?pli=1#) from [ScriptEd] (https://github.com/ScriptEdcurriculum)
+8. Arrays and objects
 
 
 
-####Additional Resources 
+
+
+####Additional Resources
+
+[JavaScript Guide] (https://docs.google.com/a/scripted.org/document/d/1PJsNEumJU1Qe32LVZWgNkecyCt1LXFIoYLhVn1hm4Zc/edit?pli=1#) from [ScriptEd] (https://github.com/ScriptEdcurriculum)
 
 [Free Treehouse Account] (http://www.lfpl.org/treehouse/)
 
