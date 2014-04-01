@@ -2,7 +2,7 @@ Programming Foundations Curriculum Guide
 =======================
 ####Agenda 
 
-1. Intro to text editor and HTML refresher
+1. Intro to text editors and HTML refresher
 
 2. Running scripts in the browser/console
 
@@ -27,6 +27,8 @@ Programming Foundations Curriculum Guide
 [Text] (https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg) (Chrome Web App)
 
 [Sublime Text] (http://www.sublimetext.com/) (Free Trial)
+
+[Gedit] (https://wiki.gnome.org/Apps/Gedit) (Linux)
 
 
 ####Additional Resources
