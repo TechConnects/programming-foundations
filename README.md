@@ -26,6 +26,8 @@ Programming Foundations Curriculum Guide
 
 [Khan Academy] (https://www.khanacademy.org/cs)
 
+Free Classes Available at [Code School] (https://www.codeschool.com/)
+
 
 
 
