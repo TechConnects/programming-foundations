@@ -10,13 +10,15 @@ Programming Foundations Curriculum Guide
  
 4. Arithmetic Operators
 
-5. Logic loops ('for', 'while')
+5. Conditional Statments (<, >, =, <=, >=) 
 
-6. If Statements
+6. Logic loops ('for', 'while')
 
-7. Creating functions
+7. If Statements
 
-8. Arrays and objects
+8. Creating functions
+
+9. Arrays and objects
 
 
 
