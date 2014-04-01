@@ -6,7 +6,7 @@ Programming Foundations Curriculum Guide
 
 2. Intro to text editor
 
-3. Running scripts in the browser
+3. Running scripts in the browser/console
 
 4. Logic loops
 
