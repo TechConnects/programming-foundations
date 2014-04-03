@@ -10,15 +10,15 @@ Programming Foundations (with JavaScript) Curriculum Guide
  
 4. Arithmetic Operators
 
-5. Conditional Statments (<, >, =, <=, >=) 
+5. If statements
 
 6. Logic loops ('for', 'while')
 
-7. If Statements
+7. Conditional Statments (<, >, =, <=, >=) 
 
-8. Creating functions
+8. Arrays and objects
 
-9. Arrays and objects
+9. Creating functions
 
 
 ####Text Editors
