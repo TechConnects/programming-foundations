@@ -43,6 +43,12 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 [Code School] (https://www.codeschool.com/) free classes available 
 
+[Safari Flow] (https://www.safariflow.com/) free 10 day trial
+
+[Plural Sight] (http://www.pluralsight.com/training) free 10 day trial (up to 200 hours)
+
+[Stack Overflow] (http://stackoverflow.com/) support forum
+
 ####Up for a challenge?  
 
 See how many of [these projects] (https://github.com/karan/Projects) you can complete from GH user Karan.  He is attempting the project with Python, but give it a shot with JS!
