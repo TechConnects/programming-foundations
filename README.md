@@ -20,6 +20,8 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 9. Creating functions
 
+10. Introduction into user interaction 
+
 
 ####Text Editors
 [Notepad++] (http://notepad-plus-plus.org/download/v6.5.5.html)
