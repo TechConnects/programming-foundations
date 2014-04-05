@@ -45,6 +45,8 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 [Code School] (https://www.codeschool.com/) free classes available 
 
+[JS: The Right Way] (http://jstherightway.org/)
+
 [Safari Flow] (https://www.safariflow.com/) free 10 day trial
 
 [Plural Sight] (http://www.pluralsight.com/training) free 10 day trial (up to 200 hours)
