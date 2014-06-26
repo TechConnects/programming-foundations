@@ -16,11 +16,13 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 7. Conditional Statments (<, >, =, <=, >=) 
 
-8. Arrays and objects
+8. [Fizz Buzz] (https://github.com/TechConnects/programming-foundations/tree/master/Fizz-Buzz)
 
-9. Creating functions
+9. [Arrays and objects] (https://github.com/TechConnects/programming-foundations/tree/master/objects-and-arrays)
 
-10. Introduction into user interaction 
+10. Creating functions
+
+11. Introduction into user interaction 
 
 
 ####Text Editors
