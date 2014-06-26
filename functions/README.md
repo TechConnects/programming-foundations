@@ -6,9 +6,9 @@ A JavaScript function is a block of code designed to perform a particular task. 
 
 **Syntax of a Function**
 
-functionName(parameter1, parameter2, parameter3) {
+    functionName(parameter1, parameter2, parameter3) {
     
-    code to be executed
-
-};
+        code to be executed
+    
+    };
 
