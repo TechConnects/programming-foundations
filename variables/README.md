@@ -11,6 +11,10 @@ var i = 29;
 
 var name = "LFPL";
 
+###Excercise 
+
+**1. Create a variable and use your web browsers (Ctrl + Shift + J) console to find the value of your variable**
+
 ###Variable Data
 [Article on Data Types] (http://www.w3schools.com/js/js_datatypes.asp) - From W3Schools.com
 
