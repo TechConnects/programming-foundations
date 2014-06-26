@@ -13,5 +13,11 @@ A JavaScript function is a block of code designed to perform a particular task. 
 **Using a Return Statement**
 
     function myFunction(a, b) {
-                return a * b;                // Function returns the product of a and b
+            return a * b;                // Function returns the product of a and b
         };
+        
+        
+        
+###Exercise
+
+**1. Write a program that returns the product of 4 and 3 and ue console.log() to print the value to the screen**
