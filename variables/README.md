@@ -1,15 +1,16 @@
 ###Declaring Variables
-var i, name;
+
+  var i, name;
 
 ###Assigning a value
-var i = 28;
-
-var name = "Library";
+  var i = 28;
+  
+  var name = "Library";
 
 ###Changing Values
-var i = 29;
-
-var name = "LFPL";
+  var i = 29;
+  
+  var name = "LFPL";
 
 ##Excercise 
 
@@ -20,28 +21,28 @@ var name = "LFPL";
 
 #####Numbers
 
-var x1 = 34.00;
-
-var x2 = 34; 
-
-var y = 123e5;  
-
-var z = 123e-5;      
+  var x1 = 34.00;
+  
+  var x2 = 34; 
+  
+  var y = 123e5;  
+  
+  var z = 123e-5;      
 
 #####Strings
-
-var carName = "Volvo XC60"; 
+  
+  var carName = "Volvo XC60"; 
 
 #####Booleans
 
-var x = true;
-
-var y = false;
+  var x = true;
+  
+  var y = false;
 
 #####Arrays
 
-var cars = ["Saab", "Volvo", "BMW"];
+  var cars = ["Saab", "Volvo", "BMW"];
 
 #####Objects
 
-var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+  var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
