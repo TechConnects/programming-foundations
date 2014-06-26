@@ -11,7 +11,7 @@ var i = 29;
 
 var name = "LFPL";
 
-###Excercise 
+##Excercise 
 
 **1. Create a variable and use your web browsers (Ctrl + Shift + J) console to find the value of your variable**
 
