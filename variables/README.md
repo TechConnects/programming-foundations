@@ -1,26 +1,26 @@
-####Declaring Variables
+###Declaring Variables
 var i, name;
 
-####Assigning a value
+###Assigning a value
 var i = 28;
 
 var name = "Library";
 
-####Changing Values
+###Changing Values
 var i = 29;
 
 var name = "LFPL";
 
-####Variable Data
-[Data Types] (http://www.w3schools.com/js/js_datatypes.asp)
+###Variable Data
+[Article on Data Types] (http://www.w3schools.com/js/js_datatypes.asp) - From W3Schools.com
 
-Numbers
+#####Numbers
 
-Strings
+#####Strings
 
-Booleans
+#####Booleans
 
-Arrays
+#####Arrays
 
-Objects
+#####Objects
 
