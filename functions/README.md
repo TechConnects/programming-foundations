@@ -7,15 +7,11 @@ A JavaScript function is a block of code designed to perform a particular task. 
 **Syntax of a Function**
 
     functionName(parameter1, parameter2, parameter3) {
-    
-        code to be executed
-    
-    };
+            code to be executed
+        };
 
 **Using a Return Statement**
 
     function myFunction(a, b) {
-        
-        return a * b;                // Function returns the product of a and b
-    
-    };
+                return a * b;                // Function returns the product of a and b
+        };
