@@ -20,7 +20,7 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 9. [Arrays and objects] (https://github.com/TechConnects/programming-foundations/tree/master/objects-and-arrays)
 
-10. Creating functions
+10. [Creating functions] (https://github.com/TechConnects/programming-foundations/tree/master/functions)
 
 11. Introduction into user interaction 
 
