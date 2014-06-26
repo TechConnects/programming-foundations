@@ -13,7 +13,7 @@ var name = "LFPL";
 
 ##Excercise 
 
-**1. Create a variable and use your web browsers (Ctrl + Shift + J) console to find the value of your variable**
+**1. Create a variable and assign it a value.  Next, use your web browser's console (Ctrl + Shift + J, then click console) to find the value of your variable**
 
 ###Variable Data
 [Article on Data Types] (http://www.w3schools.com/js/js_datatypes.asp) - From W3Schools.com
