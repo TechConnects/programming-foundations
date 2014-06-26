@@ -16,11 +16,28 @@ var name = "LFPL";
 
 #####Numbers
 
+var x1 = 34.00;
+
+var x2 = 34; 
+
+var y = 123e5;  
+
+var z = 123e-5;      
+
 #####Strings
+
+var carName = "Volvo XC60"; 
 
 #####Booleans
 
+var x = true;
+
+var y = false;
+
 #####Arrays
+
+var cars = ["Saab", "Volvo", "BMW"];
 
 #####Objects
 
+var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
