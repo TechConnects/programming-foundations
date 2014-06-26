@@ -6,7 +6,7 @@ Programming Foundations (with JavaScript) Curriculum Guide
 
 2. Running scripts in the browser/console
 
-3. Declaring and naming variables
+3. [Declaring and naming variables] (https://github.com/TechConnects/programming-foundations/tree/master/variables)
  
 4. Arithmetic Operators
 
